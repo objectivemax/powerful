@@ -1,0 +1,42 @@
+//
+//  FireBase-Prefix.pch
+//  FireBaseTEST
+//
+//  Created by Maxim Ohrimenko on 5/24/19.
+//  Copyright © 2019 Maxim Ohrimenko. All rights reserved.
+//
+
+#ifndef FireBase_Prefix_pch
+#define FireBase_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//#import "ManageMart-Swift.h"
+
+//#import "MMDefines.h"
+
+//#import "MMProjectColor.h"
+//
+#import "Common.h"
+
+#import "CommonTypes.h"
+
+#import "CommonData.h"
+
+#import "NavigationManager.h"
+
+#import "AttributedString.h"
+#import "ProjectColor.h"
+
+#import "UIColor+SlideMenuControllerOC.h"
+#import "UIImageView+SlideMenuControllerOC.h"
+#import "UITableView+SlideMenuControllerOC.h"
+#import "UIViewController+SlideMenuControllerOC.h"
+#import "UIView+SlideMenuController.h"
+#import "SlideMenuController.h"
+
+
+
+#endif /* FireBase_Prefix_pch */
+
